@@ -1,0 +1,24 @@
+(Please read nastalic.mys text file too)
+
+nastaliq.ttf 
+
+	Home of this font on the Web (http://www.arbornet.org/~tabish/u-font) 
+	says, and I quote: "Urdu Nastaliq Unicode is a Windows True-Type Urdu 
+	Font which uses Unicode Arabic coding."
+	
+	A few features that makes it distinct from the rest of the efforts:
+
+	1. Unicode implementation based on the following:
+		a. Unicode Arabic Range 0600-06FF,
+	   	b. Unicode Arabic Presentation Froms-A FB50-FDFF
+		c. Unicode Arabic Presentation Forms-B FE70-FEFF
+	2. Inclusion of word "Ka" and "Kal"
+	
+	Distribution/CopyRights:
+	------------------------
+	
+	Urdu Nastaliq Unicode, True-Type Urdu font.
+	Copyright(R)2002 Shehzad Ali and Tabish
+	This font is free software; you can redistribute it and/or modify it
+	urder the terms of the GNU General Public License as published by 
+	the Free Software Foundation
